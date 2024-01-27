@@ -21,16 +21,16 @@ header {
   grid-column: 1 / 4;
   height: 2em;
 }
-main {
-  background-color: plum;
-  grid-column: 2 / 3;
-}
+
 .left-sidebar {
   background-color: green;
   color: white;
   grid-column: 1 / 2;
 }
-
+main {
+  background-color: plum;
+  grid-column: 2 / 3;
+}
 .right-sidebar {
   background-color: yellow;
   grid-column: 3 /4;
